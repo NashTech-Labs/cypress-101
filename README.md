@@ -54,3 +54,4 @@ To run the test in browser, use the command
 node_modules/.bin/cypress run --browser chrome
 ```
 For better understading, please refer to the blog
+https://blog.knoldus.com/cypress-101/
